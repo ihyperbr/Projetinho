@@ -7,6 +7,7 @@ se você usa o XAMPP e o projeto estiver dentro de uma pasta no htdocs do XAMPP.
 
 EX: C:\xampp\htdocs\Projetos\Projetinho 
 você vai alterar de acordo com o nome das suas pastas, para ficar assim: "define('INCLUDE_PATH','http://localhost/Projetos/Projetinho/');" 
+
 se você tiver mais pastas, você vai colocar sempre em sequência depois da pasta htdocs, ex: htdocs\Projetos\GitHub\Downloads\Projetinho 
 você vai deixar assim: "define('INCLUDE_PATH','http://localhost/Projetos/GitHub/Downloads/Projetinho');"
 
